@@ -11,3 +11,6 @@ Contains variuous case studies performed using **descriptive statistics, inferen
     - **RFM Analusis** for customer segmentation
     - **Affinity Analysis**
 5. **Telecom Churn Prediction**: Build classification model to predict whether a customer canceled the subscription using customer activity data from a telecom company.
+6. **Energy Consumption Forecasting**: Analyse and determine if the provided experimental data of appliances energy use in a low energy building can be used to create regression models.
+
+
