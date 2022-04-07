@@ -12,6 +12,4 @@ Contains variuous case studies performed using **descriptive statistics, inferen
     - **[Affinity Analysis](https://github.com/sameer97/DS_ML_Case-Studies/blob/main/Affinity%20Analysis%20-%20Online%20Retail.ipynb)**
 5. **[Telecom Churn Prediction](https://github.com/sameer97/DS_ML_Case-Studies/blob/main/Telecom_CustomerChurn.ipynb)**: Build classification model to predict whether a customer canceled the subscription using customer activity data from a telecom company.
 6. **[Energy Consumption Forecasting](https://github.com/sameer97/DS_ML_Case-Studies/blob/main/Energy_Consumption_Forecasting.ipynb)**: Analyse and determine if the provided experimental data of appliances energy use in a low energy building can be used to create regression models.
-7. **[Operational Analytics](https://github.com/sameer97/DS_ML_Case-Studies/blob/main/Operations_Analytics.ipynb)**:
-
-
+7. **[Operational Analytics](https://github.com/sameer97/DS_ML_Case-Studies/blob/main/Operations_Analytics.ipynb)**: Assign resources with different training background to attend calls of certain categories in order to minimize the total time takem by all callers combined.
